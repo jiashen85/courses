@@ -76,6 +76,7 @@ sig = sign_oauth1.0(myapp,
 homeTL = GET("https://api.twitter.com/1.1/statuses/home_timeline.json", sig)
 ```
 
+##this method is no longer valid, can you update?
 
 ---
 
